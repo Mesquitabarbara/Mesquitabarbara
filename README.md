@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Bárbara Mesquita
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/chris18lima?igsh=dmlrNjBqaWxoN2Zs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chris18lima/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/312xmxwgipsouhdepxeyb3giuke4?si=IXcLwON8RMmuVkdm15W18g)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/chris18lima/)
 
